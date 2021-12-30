@@ -23,7 +23,7 @@
 ><p><div align="left">
 ><img src=""width="100px"/> 
 ><a href="https://maven.apache.org/"><i>Welcome to Apache Maven.</i></a>Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
->If you think that Maven could help your project, you can find out more information in the "About Maven" section of the navigation.                                               This includes an in-depth description of <a href="https://maven.apache.org/what-is-maven.html"><i>what Maven is</i></a> and a <a href"https://maven.apache.org/maven-features.html"><i>list of some of its main features.</i><a/>
+>If you think that Maven could help your project, you can find out more information in the "About Maven" section of the navigation.                                               This includes an in-depth description of <a href="https://maven.apache.org/what-is-maven.html"><i>what Maven is</i></a> and a <a href="https://maven.apache.org/maven-features.html"><i>list of some of its main features.</i></a>
   <p>
 
 Git/Github
