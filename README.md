@@ -16,7 +16,7 @@
 ><a href="https://www.jetbrains.com/pt-br/idea/"><i> Why IntelliJ IDEA?</i></a>
 >Enjoy productive Java
 >Every aspect of IntelliJ IDEA is designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but enjoyable.    
-</p>
+ </div></p>
 
 
 
@@ -24,9 +24,14 @@
 ><img src="https://user-images.githubusercontent.com/66042254/147788147-9a80387b-2a97-4fb3-8f17-568f329fca49.png"width="100px"/> 
 ><a href="https://maven.apache.org/"><i>Welcome to Apache Maven.</i></a>Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 >If you think that Maven could help your project, you can find out more information in the "About Maven" section of the navigation.                                               This includes an in-depth description of <a href="https://maven.apache.org/what-is-maven.html"><i>what Maven is</i></a> and a <a href="https://maven.apache.org/maven-features.html"><i>list of some of its main features.</i></a>
-  <p>
+ </div><p>
 
-Git/Github
+
+><p><div align="left">
+><img src=""/> 
+ ><a href="https://www.oficinadanet.com.br/post/14791-o-que-github"><i>What is Git?</i></a> Before getting to know GitHub's features better, let's understand what Git is.
+  ><a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git"><i>Git</i></a> is a distributed version control system. Initially, it was developed by Linus Torvalds, and thus used in the development of the Linux Kernel. The invention is due to the fact that Torvalds was looking for something relatively quick to be able to handle a constant series of activities related to Linux. Unsuccessful at anything that could be useful, he developed Git. According to the Git Wiki, Git is slang for "stubborn, always right, quarrelsome".   
+  </div></p>
 
 
 
