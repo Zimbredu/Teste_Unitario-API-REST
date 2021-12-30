@@ -13,7 +13,7 @@
 
 ><p><div align="left">
 ><img src="https://user-images.githubusercontent.com/66042254/147763540-4d498e16-105f-4f89-8ee0-2dec2ad232a1.png"width="100px"/>
-><a href=""><i> Why IntelliJ IDEA?</i></a>
+><a href="https://www.jetbrains.com/pt-br/idea/"><i> Why IntelliJ IDEA?</i></a>
 >Enjoy productive Java
 >Every aspect of IntelliJ IDEA is designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but enjoyable.  
   
