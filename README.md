@@ -11,17 +11,15 @@
 ><a href="https://www.oracle.com/java/technologies/javase/14all-relnotes.html"><i>Java 14</i></a> and its Java Development Kit 14 (JDK 14) open-source has been released on 17 March 2020 with significant number of Java Enhancement Proposals (JEPs) in version 14. (Even more JEPs than Java 12 and 13 combined) Java 14 Release Date : 17 March 2020 JAVA 14 addresses a total of 16 main enhancements/changes (JEPs) ranging from the Java language support to the latest APIs for ongoing JDK flight recorder monitoring. The entire feature list consists of:</div></p>
 
 
-Maven
-
 ><p><div align="left">
-><img src=""/>
-  ><a href=""><i></i></a> Why IntelliJ IDEA
-Enjoy productive Java
-Every aspect of IntelliJ IDEA is designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but enjoyable.  
+><img src="https://user-images.githubusercontent.com/66042254/147763540-4d498e16-105f-4f89-8ee0-2dec2ad232a1.png"width="100px"/>
+><a href=""><i> Why IntelliJ IDEA?</i></a>
+>Enjoy productive Java
+>Every aspect of IntelliJ IDEA is designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but enjoyable.  
   
 </p>
+Maven
 
-Intellij
 Git/Github
 
 
