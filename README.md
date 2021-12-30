@@ -30,7 +30,7 @@
 
 ><p><div align="left">
 ><img src="https://user-images.githubusercontent.com/66042254/147789828-8e9c56ad-d3ac-44b3-a7f2-bb3e4c25b821.jpg"width="100"/> 
- ><a href="https://www.oficinadanet.com.br/post/14791-o-que-github"><i>What is Git?</i></a> Before getting to know GitHub's features better, let's understand what Git is.
+ ><a href="https://blog.betrybe.com/tecnologia/git-e-github/"><i>What is Git?</i></a> Before getting to know GitHub's features better, let's understand what Git is.
   ><a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git"><i>Git</i></a> is a distributed version control system. Initially, it was developed by Linus Torvalds, and thus used in the development of the Linux Kernel. The invention is due to the fact that Torvalds was looking for something relatively quick to be able to handle a constant series of activities related to Linux. Unsuccessful at anything that could be useful, he developed Git. According to the Git Wiki, Git is slang for "stubborn, always right, quarrelsome".   
   </div></p>
 
