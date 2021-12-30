@@ -12,6 +12,15 @@
 
 
 Maven
+
+><p><div align="left">
+><img src=""/>
+  ><a href=""><i></i></a> Why IntelliJ IDEA
+Enjoy productive Java
+Every aspect of IntelliJ IDEA is designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but enjoyable.  
+  
+</p>
+
 Intellij
 Git/Github
 
