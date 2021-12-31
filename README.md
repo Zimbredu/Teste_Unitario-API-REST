@@ -54,7 +54,7 @@
  > <img src="https://user-images.githubusercontent.com/66042254/147796341-c1a6af4c-9dc2-48c5-bf1d-3aef81c93d65.png" width="100px"/>
  > <a href="https://junit.org/junit5/"><i>About </i></a>JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the       JVM.
  >   This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
- >   JUnit 5 is the result of <a href="https://junit.org/junit4/junit-lambda.html"><i>JUnit Lambda</i></a> and its <a href="https://junit.org/junit4/junit-lambda-                    campaign.html"><i>crowdfunding campaign on Indiegogo.</i></a>
+ >   JUnit 5 is the result of <a href="https://junit.org/junit4/junit-lambda.html"><i>JUnit Lambda</i></a> and itscrowdfunding campaign on Indiegogo.
   </div></p>  
   
   
