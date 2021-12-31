@@ -40,13 +40,11 @@
 > <img src="https://user-images.githubusercontent.com/66042254/147758671-3d50962d-0530-45a4-b6c4-709abb7460f3.png" width="100px"/>
 > The Software Development Kit Manager
 > <a href="https://sdkman.io/"><i>SDKMAN!</i></a> is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a          convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was          inspired by the very useful RVM and rbenv tools, used at large by the Ruby community. 
-</div></p>  
+</div></p>
 
 
-
- spring boot
  > <p><div align="left"</p>
- > <a img src=""width="100px"/>
+ > <img src="https://user-images.githubusercontent.com/66042254/147795721-c2fd4c14-57d0-413d-8447-9eed0a866496.png"width="100px"/>
  > <a href="https://spring.io/projects/spring-boot"><i>Spring Boot 2.6.2</i></a>Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that     you can "just run".
  >  We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring         configuration.
  >   If you’re looking for information about a specific version, or instructions about how to upgrade from an earlier release, check out <a href="https://github.com/spring-           projects/spring-boot/wiki#release-notes"/><i> the project release notes section</i></a> on our wiki.
@@ -55,7 +53,9 @@
  JUnit 5
   > <p><div align="left"</p>
  > <a img src=""width="100px"/>
- > <a href=""><i></i>
+ > <a href="https://junit.org/junit5/"><i>About </i></a>JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM.
+ >   This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
+ >   JUnit 5 is the result of <a href="https://junit.org/junit4/junit-lambda.html"><i>JUnit Lambda</i></a> and its <a href="https://junit.org/junit4/junit-lambda-                    campaign.html"><i>crowdfunding campaign on Indiegogo.</i></a>
   </div></p>  
   
   
