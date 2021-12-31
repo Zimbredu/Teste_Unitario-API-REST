@@ -59,10 +59,10 @@
   </div></p>  
   
   
- Mockito 
+
 
  > <p><div align="left">
- > <a img src=""width="100px"/>
+ > <img src="https://user-images.githubusercontent.com/66042254/147796829-66d87798-7682-4f75-8f0e-f7689032f30d.jpg" width="100px"/>
  > <a href="https://www.devmedia.com.br/mocks-introducao-a-automatizacao-de-testes-com-mock-object/30641"><i>Mockito </i> The term <a href="https://site.mockito.org/"><i>"Mock       Objects"</i></a>is used to describe a specialcase of objects that mimic real objects for testing. These Mock Objects can currently be created through frameworks that make       their creation much easier.
 >     Virtually all major languages have frameworks available for creating Mock Objects. Mock Objects are yet another form of test object.
   </div></p>   
@@ -81,25 +81,11 @@
  > <a href=""><i></i>
   </div></p>   
  
- JUnit 5
-  > <p><div align="left"</p>
- > < img src=""width="100px"/>
- > <a href=""><i></i>
-  </div></p>  
-  
-  
- Mockito
-  > <p><div align="left"</p>
- > <a img src=""width="100px"/>
- > <a href=""><i></i>
-  </div></p>   
-  
-  
- Hamcrest
-  > <p><div align="left"</p>
- > <a img src=""width="100px"/>
- > <a href=""><i></i>
-  </div></p>   
- Referêcia pirâmide de testes - Martin Fowler.
  
+  
+  
+
+  
+  
+
  
