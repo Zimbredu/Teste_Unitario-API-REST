@@ -47,9 +47,9 @@
  > <img src="https://user-images.githubusercontent.com/66042254/147795721-c2fd4c14-57d0-413d-8447-9eed0a866496.png" width="100px"/>
  > <a href="https://spring.io/projects/spring-boot"><i>Spring Boot 2.6.2</i></a>Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that     you can "just run".
  >  We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring         configuration.
- >   If you’re looking for information about a specific version, or instructions about how to upgrade from an earlier release, check out <a href="https://github.com/spring-           projects/spring-boot/wiki#release-notes"><i> the project release notes section</i></a> on our wiki.
+ >   If you’re looking for information about a specific version, or instructions about how to upgrade from an earlier release, check out <a href="https://github.com/spring-           projects/spring-boot/wiki#release-notes"><i>the project release notes section</i></a> on our wiki.
   </div></p>    
-
+https://github.com/spring-projects/spring-boot/wiki#release-notes
 
   > <p><div align="left">
  > <img src="https://user-images.githubusercontent.com/66042254/147796341-c1a6af4c-9dc2-48c5-bf1d-3aef81c93d65.png" width="100px"/>
