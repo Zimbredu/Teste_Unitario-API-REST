@@ -66,12 +66,12 @@
  > <a href="https://www.devmedia.com.br/mocks-introducao-a-automatizacao-de-testes-com-mock-object/30641"><i>Mockito </i> The term <a href="https://site.mockito.org/"><i>"Mock       Objects"</i></a>is used to describe a specialcase of objects that mimic real objects for testing. These Mock Objects can currently be created through frameworks that make       their creation much easier.
 >     Virtually all major languages have frameworks available for creating Mock Objects. Mock Objects are yet another form of test object.
   </div></p>   
-  <!--![hamcrest](https://user-images.githubusercontent.com/66042254/147818720-722593a0-58df-4d60-bf25-0cd1e02d8ae1.png)-->
-  <!--Hamcrest-->
+ 
+ 
+ <!--Hamcrest-->
  > <p><div align="left">
- > < img src="https://user-images.githubusercontent.com/66042254/147818720-722593a0-58df-4d60-bf25-0cd1e02d8ae1.png" width="100px"/>
- > <!--<a href="http://hamcrest.org/JavaHamcrest/index"><i>⚠️Hamcrest tutorial</i></a>-->
- > <a href="http://hamcrest.org/JavaHamcrest/tutorial"><i>⚠️Hamcrest</i></a> is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively.           There are a number of situations where matchers are invaluable, such as UI validation or data filtering, but it is in the area of writing flexible tests that matchers are       most commonly used. This tutorial shows you how to use Hamcrest for unit testing. 
+ > <img src="https://user-images.githubusercontent.com/66042254/147819055-f273265d-0343-4d73-89a6-37b530ddaf5c.png" width="100px"/>
+ > <a href="http://hamcrest.org/JavaHamcrest/tutorial"><i>⚠️Hamcrest</i></a> is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively.           There are a number of situations where matchers are invaluable, such as UI validation or data filtering, but it is in the area of writing flexible tests that matchers are       most commonly used. This tutorial shows you how to use <a href="http://hamcrest.org/JavaHamcrest/index"><i>⚠️Hamcrest</i></a> for unit testing. 
   </div></p>   
   
   
